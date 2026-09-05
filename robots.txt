@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fieldsgroover108-sys.github.io/liu-yubo-mingli-daily/sitemap.xml
